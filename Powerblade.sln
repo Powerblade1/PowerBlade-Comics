@@ -1,13 +1,6 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.2.32602.215
-MinimumVisualStudioVersion = 10.0.40219.1
-Global
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {355DDA46-C86E-4B55-93B2-0075CD70A88F}
-	EndGlobalSection
-EndGlobal
+<!DOCTYPE>
+<HTML>
+<BODY>
+<Title>Power Blade!</title>
+<H1>Hello, Welcome to the Power Blade Website. We sell comic books! We are still working on the website so please go to this site while were working on this site!! <h1> 
+<a href="https://sites.google.com/view/powerbladecomicsinc/home"<button> Power Blade Website </button> </a>
